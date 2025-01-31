@@ -6,4 +6,3 @@ I'm a technology enthusiast passionate about building scalable systems, explorin
 🤖 **AI/ML:** Data preprocessing, NLP, model training & deployment  
 🎾 **Hobbies:** Playing badminton, optimizing code, and experimenting with AI models  
 🎯 **Ninja way:** Details make perfection, and perfection is not a detail.  
-🚀 **Check out my work below!**  
