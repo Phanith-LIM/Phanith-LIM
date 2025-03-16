@@ -1,8 +1,8 @@
 ## [Phanith LIM](https://phanithlim.vercel.app/)  
 👋 **Welcome to my GitHub!**  
-Born to smash birdies on the court, but somehow ended up smashing algorithms instead. Passionate about Badminton and Machine Learning—because why not serve both? 🏸🤖 
+I was supposed to be smashing birdies on the badminton court, but somehow I’m here smashing code and algorithms instead. Guess I’m serving both: shuttlecocks and neural networks! 🏸🤖
 
 🛠️ **Tech Stack:** Flutter, FastAPI, NestJS, Docker, PyTorch  
-🤖 **AI/ML:** Data preprocessing, NLP, model training & deployment  
-🎾 **Hobbies:** Playing badminton, optimizing code, and experimenting with AI models  
-🎯 **Ninja way:** Details make perfection, and perfection is not a detail.  
+🤖 **AI/ML:** I preprocess data, train models, and deploy them faster than I can finish a shuttle rally.  
+🎾 **Hobbies:** Crushing birdies, optimizing code, and seeing how many layers of AI I can stack before it crashes.  
+🎯 **Ninja Philosophy:** The details are everything. Perfection is just the details wearing a cape.
